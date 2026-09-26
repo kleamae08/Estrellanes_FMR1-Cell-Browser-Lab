@@ -45,7 +45,7 @@ The Adult Cortex Meta-Atlas was selected because FMR1 is associated with Fragile
 
 ### Screenshot
 
-![Selected Adult Cortex Meta-Atlas dataset](./screenshots/01_dataset.png)
+![Selected Adult Cortex Meta-Atlas dataset](./01_dataset.png)
 
 ---
 
@@ -86,7 +86,7 @@ The expression pattern therefore showed that FMR1 was not equally expressed in e
 
 ### Screenshot
 
-![FMR1 expression across the cell map](./screenshots/02_gene_expression.png)
+![FMR1 expression across the cell map](./02_gene_expression.png)
 ---
 
 # 5. Cell Types and Clusters
@@ -110,7 +110,7 @@ The pattern suggests that FMR1 is detectable across multiple cell populations in
 
 ### Screenshot
 
-![Cell types and clusters in the Adult Cortex Meta-Atlas](./screenshots/03_cell_types.png)
+![Cell types and clusters in the Adult Cortex Meta-Atlas](./03_cell_types.png)
 
 ---
 
@@ -129,8 +129,7 @@ The dot plot provided a clearer comparison of FMR1 expression among the differen
 
 ### Screenshot
 
-![FMR1 expression dot plot](./screenshots/04_expression_plot.png)
-
+![FMR1 expression dot plot](./04_expression_plot.png)
 ---
 
 # 7. Marker Genes
@@ -149,7 +148,7 @@ FMR1 was not treated as a marker gene simply because it was expressed in the clu
 
 ### Screenshot
 
-![IT cluster marker genes](./screenshots/05_marker_genes.png)
+![IT cluster marker genes](./05_marker_genes.png)
 
 ---
 
